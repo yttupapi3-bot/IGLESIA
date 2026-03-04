@@ -21,7 +21,7 @@ const schedules = [
       "Servicio de Fuego y Poder",
   },
   {
-    image: "/images/Domingofamily.jpg",
+    image: "/images/domingofamily.jpg",
     title: "Servicio en Familia",
     day: "Domingo",
     time: "9:30 AM",

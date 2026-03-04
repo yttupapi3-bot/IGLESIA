@@ -5,8 +5,8 @@ import { Users, Droplets, Baby, HeartHandshake, Flame } from "lucide-react"
 
 const activities = [
 	{
-		title: "Evangelismo",
-		description: "Llevando el mensaje de salvación y esperanza a cada rincón de nuestra comunidad, compartiendo el amor de Dios con todos.",
+		title: "Evangelismo Sobrenatural",
+		description: "Llevando el mensaje de salvación y esperanza a cada rincón de nuestra ciudad, compartiendo el amor de Dios con todo.",
 		images: [
 			"/images/evangelismo1.jpg", 
 			"/images/evangelismo2.jpg", 
@@ -15,8 +15,8 @@ const activities = [
 		icon: Users,
 	},
 	{
-		title: "Bautismo en Aguas",
-		description: "Acompañamos a los creyentes en su paso público de fe y obediencia, declarando una nueva vida en Cristo Jesús.",
+		title: "Nueva vida en Cristo",
+		description: "Acompañamos a los creyentes en su paso público de fe y obediencia, declarando una nueva vida en Cristo Jesú",
 		images: [
 			"/images/bautismo1.jpg",
 			"/images/bautismo2.jpg",
@@ -46,7 +46,7 @@ const activities = [
 	},
 	{
 		title: "Manifestando su Poder",
-		description: "En MDVR estamos comprometidos a seguir haciendo la obra que Jesús nos ha encargado Mateo 10:8",
+		description: "En MDVR estamos comprometidos a seguir haciendo la obra que Jesús nos ha asignado, Sanando enfermos, Liberando, Predicando y enseñando Mateo 4:23 ",
 		images: [
 			"/images/poder1.jpg",
 			"/images/poder2.jpg",
