@@ -2,11 +2,12 @@
 
 import { useState, useEffect } from "react"
 import { Users, Droplets, Baby, HeartHandshake, Flame } from "lucide-react"
+import { title } from "process"
 
 const activities = [
 	{
 		title: "Evangelismo Sobrenatural",
-		description: "Llevando el mensaje de salvación y esperanza a cada rincón de nuestra ciudad, compartiendo el amor de Dios con todo.",
+		description: "Nuestra misión es compartir las buenas nuevas del Evangelio y llevar a las personas a tener una relación personal con Dios por medio de la persona de Jesucristo.",
 		images: [
 			"/images/evangelismo1.jpg", 
 			"/images/evangelismo2.jpg", 
@@ -15,7 +16,7 @@ const activities = [
 		icon: Users,
 	},
 	{
-		title: "Nueva vida en Cristo",
+		title: "Una nueva vida un Nuevo comienzo",
 		description: "Acompañamos a los creyentes en su paso público de fe y obediencia, declarando una nueva vida en Cristo Jesú",
 		images: [
 			"/images/bautismo1.jpg",
@@ -45,6 +46,20 @@ const activities = [
 		icon: HeartHandshake,
 	},
 	{
+
+
+title: "Casas de Paz",
+		description: "Una Casa de Paz es un lugar donde los vecinos, familiares y amigos se reúnen una vez a la semana para orar los unos por los otros por sus necesidades, aprender acerca de Dios y crecer en su vida cristiana a través del poder sobrenatural de Dios.",
+		images: [   
+			"/images/casapaz1.jpg",
+			"/images/casapaz2.jpg",
+			"/images/casapaz3.jpg"
+		],
+		icon: HeartHandshake,
+	},
+	{
+
+
 		title: "Manifestando su Poder",
 		description: "En MDVR estamos comprometidos a seguir haciendo la obra que Jesús nos ha asignado, Sanando enfermos, Liberando, Predicando y enseñando Mateo 4:23 ",
 		images: [
@@ -53,7 +68,7 @@ const activities = [
 			"/images/poder3.jpg"
 		],
 		icon: Flame,
-	}
+	},
 ]
 
 // --- MINI-COMPONENTE QUE HACE LA MAGIA DEL CARRUSEL AUTOMÁTICO ---
@@ -130,7 +145,7 @@ export function ServicesSection() {
 						Nuestros Ministerios
 					</h2>
 					<p className="max-w-2xl text-lg text-muted-foreground text-pretty">
-						Conoce las diferentes áreas donde servimos a Dios y a nuestra comunidad para extender Su reino.
+						Nuestra pasión es entrenar, equipar, movilizar y empoderar a cada miembro del ministerio para alcanzar al perdido a través de lo sobrenatural, así como también ayudar a cada nuevo creyente a comenzar su camino mediante el proceso de la visión.
 					</p>
 				</div>
 

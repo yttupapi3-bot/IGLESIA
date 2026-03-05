@@ -87,7 +87,7 @@ export function LocationSection() {
               <ul className="flex flex-col gap-1 text-sm text-muted-foreground">
                 <li>Lun: 6:30 PM</li>
                 <li>Mié: 6:30 PM</li>
-                <li>Dom: 9:30 AM</li>
+                <li>Dom: 9:00 AM</li>
               </ul>
             </div>
 

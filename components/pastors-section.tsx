@@ -34,10 +34,10 @@ export function PastorsSection() {
 					{/* 2. Textos (Lado Derecho) */}
 					<div className="flex w-full flex-col text-center md:w-1/2 md:text-left">
 						<h3 className="mb-4 text-2xl font-extrabold text-foreground sm:text-3xl lg:text-4xl">
-							Pastor Marlon Lacayo & Pastora Ana Lacayo
+							Pastores Marlon & Ana Lacayo
 						</h3>
 						<p className="text-base leading-relaxed text-muted-foreground sm:text-lg">
-							Somos una iglesia donde el amor de Jesús transforma vidas. Creemos firmemente en el propósito que Dios ha depositado en cada persona y trabajamos con pasión para discipular, equipar y enviar líderes a manifestar el poder sobrenatural a esta generación.
+							somos una familia bajo la cobertura de los Pastores Jairo & Berenice Sequeira , Enviados para establecer el reino de Dios en rivas. Creemos firmemente en el proposito que Dios ah Depositado en cada persona y trabajamos con pasion para discipular , equipar y enviar Lideres a manifestar el poder sobrenatural de Dios en este tiempo.
 						</p>
 					</div>
 
