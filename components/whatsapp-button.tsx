@@ -4,7 +4,7 @@ export function WhatsAppButton() {
 			href="https://wa.me/50586919735?text=Hola,%20me%20gustar%C3%ADa%20saber%20m%C3%A1s%20sobre%20la%20iglesia."
 			target="_blank"
 			rel="noopener noreferrer"
-			className="fixed bottom-6 right-6 z-50 flex h-14 w-14 items-center justify-center rounded-full bg-[#25D366] text-white shadow-lg transition-transform hover:scale-110 sm:bottom-8 sm:right-8"
+			className="fixed bottom-6 right-6 z-50 flex h-14 w-14 items-center justify-center rounded-full bg-[#25D366] text-white shadow-lg transition-transform hover:scale-110 sm:bottom-8 sm:right-8 animate-pulse"
 			aria-label="Escribir por WhatsApp"
 		>
 			<svg
@@ -19,3 +19,4 @@ export function WhatsAppButton() {
 		</a>
 	)
 }
+

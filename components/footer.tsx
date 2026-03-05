@@ -42,7 +42,7 @@ export function Footer() {
 
 			<div className="container mx-auto max-w-5xl px-6">
 				{/* Contenedor a 2 columnas (Izquierda: Logo/Bio/Redes | Derecha: Contacto) */}
-				<div className="flex flex-col md:flex-row justify-between items-center md:items-start gap-12">
+				<div className="flex flex-col md:flex-row justify-between items-start gap-12">
 
 					{/* 1. Lado Izquierdo: Logo, Bio y Facebook */}
 					<div 
