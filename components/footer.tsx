@@ -56,7 +56,7 @@ export function Footer() {
 								alt="MDVR Logo" 
 								width={48} 
 								height={48} 
-								className="h-12 w-auto opacity-90 group-hover:opacity-100 transition-opacity"
+								className="h-12 w-auto brightness-0 invert opacity-90 group-hover:opacity-100 transition-opacity"
 							/>
 							<span className="text-3xl font-extrabold text-white tracking-tight">MDVR</span>
 						</Link>
