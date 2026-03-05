@@ -42,13 +42,13 @@ export function Footer() {
 
 			<div className="container mx-auto max-w-5xl px-6">
 				{/* Contenedor a 2 columnas (Izquierda: Logo/Bio/Redes | Derecha: Contacto) */}
-				<div className="flex flex-col md:flex-row justify-between items-start gap-12">
+				<div className="flex flex-col md:flex-row justify-between items-center md:items-start gap-12">
 
 					{/* 1. Lado Izquierdo: Logo, Bio y Facebook */}
 					<div 
 						className={`flex flex-col items-center md:items-start text-center md:text-left transform transition-all duration-[1000ms] ease-out ${
-							isVisible ? "translate-y-0 opacity-100" : "translate-y-12 opacity-0"
-						}`}
+						isVisible ? "translate-y-0 opacity-100" : "translate-y-12 opacity-0"
+					}`}
 					>
 						<Link href="/" className="flex items-center gap-3 mb-5 group transition-transform duration-300 hover:scale-105">
 							<Image 
