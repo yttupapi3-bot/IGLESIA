@@ -142,7 +142,7 @@ export function ServicesSection() {
 						LO QUE HACEMOS
 					</span>
 					<h2 className="text-3xl font-extrabold tracking-tight text-foreground sm:text-4xl mb-4">
-						Nuestros Ministerios
+						Nuestro Ministerio
 					</h2>
 					<p className="max-w-2xl text-lg text-muted-foreground text-pretty">
 						Nuestra pasión es entrenar, equipar, movilizar y empoderar a cada miembro del ministerio para alcanzar al perdido a través de lo sobrenatural, así como también ayudar a cada nuevo creyente a comenzar su camino mediante el proceso de la visión.
