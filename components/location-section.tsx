@@ -1,7 +1,7 @@
 "use client"
 
 import { useEffect, useRef } from "react"
-import { MapPin, Navigation, Clock, Phone } from "lucide-react"
+import { MapPin, Navigation, Clock, Phone, Home } from "lucide-react"
 
 export function LocationSection() {
   const sectionRef = useRef<HTMLElement>(null)
@@ -90,6 +90,18 @@ export function LocationSection() {
                 <li>Dom: 9:00 AM</li>
               </ul>
             </div>
+
+            {/* Casas de Paz card */}
+			<div className="flex-1 rounded-2xl border border-border/50 bg-card p-6">
+				<div className="mb-4 flex h-12 w-12 items-center justify-center rounded-xl bg-primary/10 text-primary">
+					<Home className="h-6 w-6" />
+				</div>
+				<h3 className="mb-2 text-lg font-bold text-foreground">Horario Casas de Paz</h3>
+				<ul className="flex flex-col gap-1 text-sm text-muted-foreground">
+					<li>Martes: 6:00 PM</li>
+					<li>Viernes: 6:00 PM</li>
+				</ul>
+			</div>
 
             {/* Contact card */}
             <div className="flex-1 rounded-2xl border border-border/50 bg-card p-6">

@@ -37,7 +37,7 @@ export function PastorsSection() {
 							Pastores Marlon & Ana Lacayo
 						</h3>
 						<p className="text-base leading-relaxed text-muted-foreground sm:text-lg">
-							somos una familia bajo la cobertura de los Pastores Jairo & Berenice Sequeira , Enviados para establecer el reino de Dios en rivas. Creemos firmemente en el proposito que Dios ah Depositado en cada persona y trabajamos con pasion para discipular , equipar y enviar Lideres a manifestar el poder sobrenatural de Dios en este tiempo.
+							somos una familia bajo la cobertura de los Pastores Jairo & Berenice Sequeira, enviados para establecer el reino de Dios en rivas. Creemos firmemente en el proposito que Dios ha Depositado en cada persona y trabajamos con pasion para discipular, equipar y enviar Lideres a manifestar el poder sobrenatural de Dios en este tiempo.
 						</p>
 					</div>
 

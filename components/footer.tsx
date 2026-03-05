@@ -62,7 +62,7 @@ export function Footer() {
 						</Link>
 						
 						<p className="text-base leading-relaxed max-w-sm mb-8 text-zinc-500">
-							Una comunidad de fe dedicada a transformar vidas a través del amor de Dios.
+							Una familia en la fe dedicada a transformar vidas a traves del amor de Dios.
 						</p>
 						
 						{/* Botón de Facebook Único y Creativo */}
