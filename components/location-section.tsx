@@ -98,8 +98,8 @@ export function LocationSection() {
 				</div>
 				<h3 className="mb-2 text-lg font-bold text-foreground">Horario Casas de Paz</h3>
 				<ul className="flex flex-col gap-1 text-sm text-muted-foreground">
-					<li>Martes: 6:00 PM</li>
-					<li>Viernes: 6:00 PM</li>
+					<li>Mar: 6:00 PM</li>
+					<li>Vie: 6:00 PM</li>
 				</ul>
 			</div>
 
