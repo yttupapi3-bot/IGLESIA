@@ -7,9 +7,9 @@ import { motion, AnimatePresence } from "framer-motion"
 const SPLASH_DURATION = 5000
 const FADE_OUT_DURATION = 0.9
 
-const line1 = "BIENVENIDO"
+const line1 = "!BIENVENIDO"
 const line2 = "AL LUGAR DE "
-const line3 = "TU MILAGRO"
+const line3 = "TU MILAGRO¡"
 
 /* ─── Liquid Puddle SVG ─── */
 function LiquidPuddle({ index, delay }: { index: number; delay: number }) {
